@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 #10-add.py
-def add(a, b):
-    return (a + b)
+def add(x, y):
+    # return addition of 2 numbers
+
+    return (x + y)
