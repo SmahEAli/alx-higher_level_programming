@@ -6,13 +6,13 @@
 /**
  * struct listint_s - single linked list
  * @n: int
- * @nx: pointer to next node
+ * @next: pointer to next node
  * Description: singly linked listbnode structure
  */
 typedef struct listint_s
 {
 	int n;
-	struct listint_s *nx;
+	struct listint_s *next;
 } listint_t;
 
 size_t print_listint(const listint_t *h);
