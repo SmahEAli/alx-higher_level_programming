@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#9-print_last_digit.py
+# 9-print_last_digit.py
+
 def print_last_digit(n):
     # prints and return last digit of a number
 

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#6-print_comb3.py
+# 6-print_comb3.py
+
 # prints all possible different combinations of two digits, while they must be different
 
 for d in range(0, 10):
