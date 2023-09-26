@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 
-def safe_print_list(my_list=[], x=0):
+def safe_print_list(my_list=[], x=0:
     """Print x elememts of a list
     Args:
         my_list(list): list to elements
         x(int): no. of elements
-    Return real number of elements printed
+    Returns:
+    real number of elements printed
     """
 
     n_e= 0
