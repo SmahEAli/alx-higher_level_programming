@@ -2,6 +2,9 @@
 
 def safe_print_list(my_list=[], x=0):
     """Print x elememts of a list
+    Args:
+        my_list(list): list to elements
+        x(int): no. of elements
     Return real number of elements printed
     """
 
