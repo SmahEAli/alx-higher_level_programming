@@ -2,5 +2,7 @@
 # empty class Square
 
 class Square:
-# defines square
+    """defines a suare"""
+
+
 pass
