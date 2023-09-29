@@ -2,8 +2,7 @@
 
 
 def magic_calculation(a, b):
-    # Matching the  bytecode provided
-
+    """Matching the bytecode provided"""
     from magic_calculation_102 import add, sub
 
     if a < b:
